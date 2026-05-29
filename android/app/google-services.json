@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "913270259082",
+    "project_id": "genzbrain-e1663",
+    "storage_bucket": "genzbrain-e1663.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913270259082:android:22099a8bb712805d68dc73",
+        "android_client_info": {
+          "package_name": "com.example.genzbrain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913270259082-f3mkrlko4ojdjij375fb97cpilljcuqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.genzbrain",
+            "certificate_hash": "297edd76ac236a12a8e632ae84e6a7c8464a07c0"
+          }
+        },
+        {
+          "client_id": "913270259082-cj5or8bklit8brt3q97nh4pbkhhaqlmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZUDv2ScvfDH44WO7eRlMUEO641DdqewI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913270259082-cj5or8bklit8brt3q97nh4pbkhhaqlmj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "913270259082-ja06atlcv7qis3uqhn6eblor1n9jejaa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.simson"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

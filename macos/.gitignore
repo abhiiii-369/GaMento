@@ -1,0 +1,19 @@
+# Flutter-related
+**/Flutter/ephemeral/
+**/Pods/
+
+# Xcode-related
+**/dgph
+**/xcuserdata/
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+*.apk
+*.aab
+
+android/.gradle/
+
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
