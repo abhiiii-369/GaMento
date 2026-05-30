@@ -16,7 +16,6 @@ GaMento is a Flutter-based memory training game designed to improve focus, memor
 
 * Flutter
 * Firebase Authentication
-* Cloud Firestore
 * Shared Preferences
 * Audioplayers
 
