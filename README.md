@@ -23,10 +23,10 @@ GaMento is a Flutter-based memory training game designed to improve focus, memor
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="220">
-  <img src="screenshots/signin.png" width="220">
-  <img src="screenshots/game.png" width="220">
-  <img src="screenshots/leaderboard.png" width="220">
+  <img src="home.png" width="220">
+  <img src="signin.png" width="220">
+  <img src="game.png" width="220">
+  <img src="leaderboard.png" width="220">
 </p>
 
 
